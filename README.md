@@ -1,5 +1,5 @@
-# cse210-student-template
-This is the starter code for students in CSE 210.
+# Daniel Loveless CSE210 Projects
+This is the framework template for projects in CSE 210.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
